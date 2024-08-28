@@ -1,0 +1,1 @@
+This Python script creates a PyQt6-based GUI application for a chatbot, which includes a chat display area, an input field, and a send button; the backend uses OpenAI's GPT model to generate responses, interacting with the user input in a separate thread to ensure smooth and responsive UI performance.
